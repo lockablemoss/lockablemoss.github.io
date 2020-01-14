@@ -1,0 +1,1 @@
+This is a collection of project I do. This is goinf to hopefully be a blog of my prograss to full-stack webdevelopment. I will use this README as collection of my thoughts and progress.
